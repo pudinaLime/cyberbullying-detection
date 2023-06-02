@@ -1,0 +1,15 @@
+P(A|B) = P(B|A) . P(A)
+	 -------------
+	      P(B)
+
+
+B => GOOD OR BAD
+
+A => WORD/ SENTENCE
+
+P(A|GOOD)
+P(A|BAD)
+
+> DETERMINES CLASS
+
+
