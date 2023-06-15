@@ -88,4 +88,4 @@ def scrape_tweet(obj: TweetURL):
 
 
 if __name__ == '__main__':
-    uvicorn.run("app:app", port=8000, reload=True)
+    uvicorn.run("app:app", port=8000, reload=False)
